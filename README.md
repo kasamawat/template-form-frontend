@@ -54,3 +54,9 @@ Make sure you have installed the following:
    ```bash
    git clone https://github.com/kasamawat/template-form-frontend.git
    cd template-form-frontend
+2. Install Packages
+    ```bash
+    npm install
+3. Start Project
+    ```bash
+    npm run dev
